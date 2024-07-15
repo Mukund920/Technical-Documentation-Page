@@ -20,3 +20,5 @@ git clone https://github.com/yourusername/js-documentation.git
 
 2. Open the Index File:
 Navigate to the project directory and open index.html in your web browser to view the documentation.
+
+![technical page](https://github.com/user-attachments/assets/d101a7dd-e817-4393-9b33-a41d0b7ca09c)
