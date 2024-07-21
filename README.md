@@ -15,10 +15,7 @@ The HTML is structured with a fixed navigation bar and a main content area that 
 The CSS file, styles.css, defines the styles for the navigation bar, main content, and various responsive design elements to ensure a good user experience across different devices.
 
 ## Usage
-1. Clone the Repository:
-git clone https://github.com/yourusername/js-documentation.git
-
-2. Open the Index File:
+1. Open the Index File:
 Navigate to the project directory and open index.html in your web browser to view the documentation.
 
 ![technical page](https://github.com/user-attachments/assets/d101a7dd-e817-4393-9b33-a41d0b7ca09c)
